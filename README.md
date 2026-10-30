@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm a Software Engineer 👋
 
-<!--
-**yabedmohamedval/yabedmohamedval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** based in France, holding an Engineering Degree and a Master's Degree in Software Engineering.
 
-Here are some ideas to get you started:
+I enjoy designing and building reliable, maintainable, and scalable applications — from backend services and REST APIs to modern web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is **Java, Spring Boot, TypeScript, and Angular**, with a strong interest in microservices architecture, software quality, and DevOps practices.
+
+I have experience working on enterprise banking applications, automation, and software integration.
+
+### 🛠️ Tech Stack
+
+**Backend:** Java · Spring Boot · Spring Security · REST APIs · Microservices
+
+**Frontend:** Angular · TypeScript · HTML · CSS
+
+**Databases:** PostgreSQL · MySQL · SQL · Oracle
+
+**DevOps & Tools:** Docker · Jenkins · Git · Kafka · Maven · Linux
+
+**Security:** JWT · OAuth2 · Keycloak
+
+### 🌐 Connect with me
+
+- 💼 **Portfolio:** [mohamedyabed.dev](https://mohamedyabed.dev/)
+- 🔗 **LinkedIn:** [View my LinkedIn](https://www.linkedin.com/in/mohamedval-yabed/)
+
+Feel free to explore my projects and connect!
